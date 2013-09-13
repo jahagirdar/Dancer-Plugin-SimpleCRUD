@@ -1,5 +1,6 @@
 FORK INTENT
-    Visual improvements. Instead of hardcoding the form and table look and feel I intend to pass templates which will be expanded to render the forms and database dumps.
+    Visual improvements. Instead of hardcoding the form and table look and feel
+    I intend to pass templates which will be expanded to render the views.
 
 NAME
     Dancer::Plugin::SimpleCRUD - very simple CRUD
